@@ -2,8 +2,9 @@
 
 Query Python dictionaries using SQL-tasting functions.
 
+See [examples](./examples/main.py) to see how it works!
 
-## Installing
+## Installation
 
 1. Clone the repository
 
@@ -17,5 +18,10 @@ Query Python dictionaries using SQL-tasting functions.
 
 4. The module should be properly installed and directly available:
 
-   `import pydictry as dry'
+   `import pydictry`
+
+
+## TODO
+
+1. add group-by
 
